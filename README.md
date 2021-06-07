@@ -18,7 +18,7 @@ notes they would like to add to their note list.
 
 ### Usage:
 To use this application you must install the necessary dependencies typed at the top of the index.js file. To execute run node server.js and 
-navigate to localhost:3001 in the web browser to use this application. 
+navigate to localhost:3001 in the web browser to use this application. A refresh is also required after any alteration to view added notes or remove deleted notes from the note list.
 ### License:
 This project is licensed under:
 MIT
