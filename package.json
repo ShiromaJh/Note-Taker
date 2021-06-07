@@ -1,19 +1,23 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "note taker",
+  "main": "routes.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ShiromaJh/Note-Taker.git"
   },
-  "author": "",
+  "author": "Justin Hoffman",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ShiromaJh/Note-Taker/issues"
   },
-  "homepage": "https://github.com/ShiromaJh/Note-Taker#readme"
+  "homepage": "https://github.com/ShiromaJh/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
