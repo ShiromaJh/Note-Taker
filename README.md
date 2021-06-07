@@ -1,5 +1,5 @@
 # Note Taker  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
-Team Profile Generator## Table of Contents:
+Note Taker## Table of Contents:
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
