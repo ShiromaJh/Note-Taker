@@ -6,6 +6,12 @@ Note Taker## Table of Contents:
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
+
+
+
+![nt](https://user-images.githubusercontent.com/78002356/120954056-f3970980-c713-11eb-889f-ac672c10f47d.JPG)
+![nt2](https://user-images.githubusercontent.com/78002356/120954057-f5f96380-c713-11eb-95ee-2d1082ae8cd5.JPG)
+
 ### Installation:
 My Not Taker app uses Express.js to allow the user to add and delete notes. The user can create a note name then a description of any number of 
 notes they would like to add to their note list.
